@@ -1,6 +1,8 @@
 #Chris's Recommended Reading List
 
-My first real rails application - a recommended reading list.
+My first real rails application - a recommended reading list on the subject of software engineering (testing). Built following the Rails For Zombies 2 [Soup to Bits](https://github.com/codeschool/RFZ2SoupToBits).
+
+Built to run on Heroku (which is different than the Soup to Bits example). Uses [Postgres](http://postgresguide.com/) for the database. 
 
 ## Deploying to Heroku
 
