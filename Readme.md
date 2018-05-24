@@ -1,4 +1,4 @@
-#Chris's Reading List
+# Chris's Reading List
 
 A reading list rails app. Built following the Rails For Zombies 2 [Soup to Bits](https://github.com/codeschool/RFZ2SoupToBits) videos but using [Postgres](http://postgresguide.com/) for the database so it can run on Heroku.
 
